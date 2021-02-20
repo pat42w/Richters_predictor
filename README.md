@@ -1,4 +1,5 @@
 # Richters_predictor
+
 This is the basis for my entry to the [Richter's Predicter](https://www.drivendata.org/competitions/57/nepal-earthquake/) open competition hosted by Drivendata using [Catboost](https://catboost.ai/).
   
 Blurb from the competition site:   
